@@ -1,0 +1,11 @@
+name = "hi_aunit"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Paul Drews"]
+maintainers = ["Paul Drews <myapaulogies@tuta.io>"]
+maintainers-logins = ["MyApaulogies"]
+
+executables = ["hi_aunit"]
+[[depends-on]]
+aunit = "^24.0.0"
