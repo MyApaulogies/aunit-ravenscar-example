@@ -1,5 +1,5 @@
---  pragma Profile (Ravenscar);
---  pragma Restrictions (No_Unchecked_Deallocation);
+pragma Profile (Ravenscar);
+pragma Restrictions (No_Unchecked_Deallocation);
 
 -- main
 
